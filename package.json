@@ -1,0 +1,18 @@
+{
+  "name": "@definejs/path",
+  "version": "1.0.0",
+  "description": "在 node 端使用的路径处理工具，以便在不同平台环境下得到格式统一的路径，进而可以持久化存储和传输。",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "micty",
+  "email": "mictydeng@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/definejs/path.git"
+  },
+  "dependencies": {
+    
+  }
+}
